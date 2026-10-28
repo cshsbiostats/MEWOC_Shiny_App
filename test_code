@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="refresh"
+        content="0; url=https://cedars-sinai-research-mewoc.share.connect.posit.cloud">
+  <title>Redirecting…</title>
+
+  <script>
+    window.location.replace(
+      "https://cedars-sinai-research-mewoc.share.connect.posit.cloud"
+    );
+  </script>
+</head>
+<body>
+  <p>
+    Redirecting to the application…
+    <a href="https://cedars-sinai-research-mewoc.share.connect.posit.cloud">
+      Click here if you are not redirected.
+    </a>
+  </p>
+</body>
+</html>
